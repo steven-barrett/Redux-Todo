@@ -1,0 +1,19 @@
+.todo-list {
+    display: inline-block;
+    justify-content: flex-start;
+    text-align: center;
+    width: 100%;
+}
+
+.input-div {
+    width: 100%;
+    text-align: center;
+}
+input {
+    width: 150px;
+}
+
+.todo-completed {
+    
+}
+
